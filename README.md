@@ -1,7 +1,7 @@
 
 # EXPRESS API README  #
 
-API to create, read, update and delete a user"s data'
+API to create, read, update and delete a user's data
 
 ## Requirements
 
